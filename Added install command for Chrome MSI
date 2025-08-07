@@ -1,0 +1,8 @@
+install-command.md
+cd C:\IntuneApps
+IntuneWinAppUtil.exe
+Source folder: C:\IntuneApps
+Setup file: GoogleChromeStandaloneEnterprise64.msi
+Output folder: C:\IntuneApps\Output
+Catalog folder: N
+C:\IntuneApps\Output\GoogleChromeStandaloneEnterprise64.intunewin
